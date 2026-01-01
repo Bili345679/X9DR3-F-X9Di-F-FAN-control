@@ -13,6 +13,8 @@
 
 [Supermicro X9/X10/X11 Fan Speed Control](https://forums.servethehome.com/index.php?threads/supermicro-x9-x10-x11-fan-speed-control.10059/page-10)
 
+[教程视频](https://www.bilibili.com/video/BV1SZvUB6E1Q)
+
 # 没验证成功
 ### 查看风扇模式
 ``` bash
