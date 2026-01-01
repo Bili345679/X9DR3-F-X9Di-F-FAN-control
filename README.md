@@ -1,4 +1,4 @@
-# ubunt 系统 X9DR3-F 与 X9Di-F 风扇转速调节
+# ubuntu 系统 X9DR3-F 与 X9Di-F 风扇转速调节
 
 # 相关链接
 [官方文档](https://www.supermicro.com/manuals/motherboard/C606_602/MNL-1259.pdf)
